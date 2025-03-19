@@ -99,4 +99,3 @@ cd ai-trading-bot
 
 ---
 
-These **README.md** files make your projects **stand out**, showcase **technical depth**, and **increase your chances** of getting selected for **Tower Research Capital**. 🚀🔥
